@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    margin-left: 30%;
+    margin-top: 10%;
+    background-image: linear-gradient(rgb(170, 45, 66),#4c6bbb);
+}
+div{
+    border: 7px solid rgb(38, 207, 38);
+    width: 45%;
+    height: 300px;
+    border-radius: 20%;
+    background-image: radial-gradient(yellow,red);
+}
+label{
+    padding: 30%;
+    margin-bottom: 30%;
+}
